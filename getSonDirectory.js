@@ -20,5 +20,4 @@ const getSonDirectory = (path) => {
 }
 
 const PATH = './example'
-const BASE_URL = ''
 getSonDirectory(PATH)
