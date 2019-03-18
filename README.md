@@ -8,4 +8,4 @@
 
 > 测试时 html2canvas 版本为： `v`
 
-# Example List
+# Demo List
